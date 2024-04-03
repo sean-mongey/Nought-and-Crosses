@@ -38,6 +38,7 @@ This is a simple web-based noughts and crosses (tic-tac-toe) game built using Re
 
 ## Demo
 
+<a href= "https://sean-mongey.github.io/Nought-and-Crosses/">Click here to play</a>
 
 ## Roadmap
 
